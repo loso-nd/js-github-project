@@ -1,6 +1,23 @@
 {
-    "coders" :[
-        {}
-    ]
+  "coder": [
+    {
+      "name": "charizard",
+      "sprites": {
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+      },
+      "id": 1
+    },
+    {
+      "user": "ghost",
+      "repoUrl": "https://api.github.com/users/ghost/repos",
+      "avatar": "https://avatars.githubusercontent.com/u/10137?v=4",
+      "id": 2
+    },
+    {
+      "user": "user-rahim",
+      "repoUrl": "https://api.github.com/users/user-rahim/repos",
+      "avatar": "https://avatars.githubusercontent.com/u/35132717?v=4",
+      "id": 3
+    }
+  ]
 }
-
